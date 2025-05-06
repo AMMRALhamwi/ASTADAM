@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "image": {
+      "src": "/articles/one.jpg",
+      "alt": "التايتنك"
+    },
+    "label": "Risk management",
+    "title": "حين غرقت التايتنك... لم تكن وحدها.\nرسالة إلى كل شركة تتجاهل المخاطر وتثق في مناعتها الزائفة",
+    "link": "/article/ai-healthcare",
+    "date": "2025-5-4",
+    "category": "Risk management",
+    "author": "د. عبير صقر السلمي",
+    "tags": [
+      "Risk Management",
+      "Corporate Governance",
+      "Strategic Leadership",
+      "Business Failures",
+      "Organizational Collapse",
+      "Titanic Case Study",
+      "OceanGate Titan",
+      "Crisis Response",
+      "Lessons Learned",
+      "Decision Making Under Pressure"
+    ],
+    "summary": "يسلّط المقال الضوء على أهمية إدارة المخاطر من خلال قصتي \"تايتنك\" و\"تيتان\" كمثالين رمزيين لفشل الحوكمة والثقة المفرطة بقدرة المؤسسة على النجاة، حيث أدى تجاهل التحذيرات، وضعف الاستعداد، وتغليب الربح على السلامة إلى كوارث مأساوية. الرسالة الواضحة: لا توجد شركة \"غير قابلة للفشل\"، والمخاطر اليوم ليست استثناء، بل واقع يجب مواجهته بحوكمة رشيدة وقرارات واعية تحفظ الاستدامة وسلامة أصحاب المصلحة.",
+    "content": "حين غرقت التايتنك... لم تكن وحدها.\n\nرسالة إلى كل شركة تتجاهل المخاطر وتثق في مناعتها الزائفة.\n\n\nلطالما تردّد مصطلح \"إدارة المخاطر\" في عالم الشركات، لكنه أصبح في الواجهة أكثر من أي وقت مضى بعد جائحة كورونا. ومع ذلك، لا يزال فهمه سطحيًا في كثير من المؤسسات. فماذا نعني فعلاً بإدارة المخاطر والأزمات؟ وكيف يمكن أن يؤدي ضعفها إلى انهيار مؤسسات كبرى؟ للإجابة، نستعرض قصة التايتنك — لا كحادثة تاريخية فقط، بل كنموذج رمزي لفشل الحوكمة المؤسسية.\n\n\nسفينة التايتنك، التي لطالما وُصفت بأنها \"غير قابلة للغرق\"، تمثل اليوم مثالاً كلاسيكيًا على غطرسة الإدارة، وسوء تقدير المخاطر، وتجاهل التحذيرات. لم تكن إدارة المخاطر أولوية عند بناء وتشغيل التايتنك. فالمنافسة على الركاب كانت شرسة، ودفع ذلك الشركة لاتخاذ قرارات محفوفة بالمخاطر لزيادة الربحية، على حساب إجراءات السلامة. فقد انطلقت السفينة العملاقة بقوارب نجاة لا تكفي إلا لـ 1200 شخص، بينما كان على متنها أكثر من 2200 راكب. هذا وحده يكشف عن تفضيل العائد المالي قصير الأجل على استدامة العمليات وسلامة أصحاب المصلحة — وهو نمط مؤسسي لا يزال يتكرر حتى اليوم في بعض الشركات.\n\n\nورغم التحذيرات المتكررة من وجود جبال جليدية في المسار، لم تُنقل معظم الإشعارات إلى القيادة العليا، بسبب اعتماد نظام لاسلكي جديد لم يُدرّب عليه الطاقم بشكل كافٍ. كما فشل الطاقم في استخدام المنظار المتاح، ما أدى إلى اكتشاف الخطر متأخرًا. وحين وصلت إشارة التحذير الأخيرة، اتُخذ قرار متهور بتغيير المسار بسرعة، ما أدى إلى تمزق هيكل السفينة الجانبي. من المفارقات أن الاصطدام المباشر ربما كان سيتسبب في ضرر أقل، لكن \"اتخاذ القرار تحت ضغط\" وغياب سيناريوهات الطوارئ جعلا القرار كارثيًا.\n\n\nلحظة الإخلاء بدورها كشفت خللاً مؤسسياً أعمق. لم تكن هناك خطة واضحة، ولا تدريب كافٍ، ولا عدالة في توزيع الموارد — فتم تفضيل ركاب الدرجة الأولى على غيرهم، وقوارب النجاة لم تُستخدم بكامل طاقتها. النتيجة كانت غرق أكثر من نصف الركاب، وفضيحة دمرت سمعة الشركة.\n\n\nلكن المدهش أن التاريخ يعيد نفسه بنفس التفاصيل تقريبًا. ففي عام 2023، عاشت شركة \"أوشن غيت\" تكرارًا مأساويًا لهذا السيناريو مع غواصتها \"تيتان\"، التي كانت تستكشف حطام التايتنك نفسه. ما كان يُفترض أن يكون رحلة فاخرة أصبح مأساة في الأعماق، بعدما انفجرت الغواصة فجأة على عمق 4000 متر.\n\n\nالتحقيقات أظهرت فشلاً جوهريًا في إدارة المخاطر. فقد صُمّمت الغواصة بمواد غير تقليدية (مزيج من التيتانيوم وألياف الكربون) دون الاعتماد على الشهادات المعتمدة في الهندسة البحرية. ورغم اعتراضات وتحذيرات موثقة من خبراء مختصين، استمرت الإدارة في مشروعها بثقة مفرطة وبلا إشراف مستقل أو نظام إنقاذ. النتيجة؟ انفجار لحظي من الداخل، قضى على كل من في الغواصة قبل أن يدركوا ما يحدث.\n\n\nما يجمع بين \"تايتنك\" و\"تيتان\" هو النمط ذاته: تجاهل للتحذيرات، وثقة عمياء بالقدرة الذاتية، وغطرسة إدارية ترفض التعلم من الدروس. في كليهما، كانت هناك إشارات إنذار مبكرة، لكن تم تجاهلها بسبب قصر النظر المالي، وغياب الحوكمة الفعالة، ورفض الاستماع للمختصين.\n\n\nالدرس القاسي الذي يجب أن تستوعبه الشركات اليوم هو أن المخاطر لم تعد مجرد حالات نادرة، بل أصبحت جزءًا من الواقع الاستراتيجي لأي مؤسسة. التغيّبات التكنولوجية، والضغوط البيئية، وتقلبات الأسواق، كلها تفرض على الشركات أن تتبنّى حوكمة رشيدة لإدارة المخاطر، وتفهم أن السلامة والاستدامة ليست تكاليف هامشية، بل أساس للبقاء والربحية المستدامة.\n\n\nالمؤسسات لا تنهار فجأة. بل تبدأ بالتآكل عند أول تجاهل صغير لتحذير مشروع، أو أول قرار يتعارض مع مبادئ الشفافية والمساءلة. تايتنك لم تغرق وحدها، وغواصة تيتان ليست نهاية القصة. هي إشارات في مسار طويل من الانهيارات المؤسسية الناتجة عن سوء إدارة المخاطر.\n\n\nالرسالة إلى كل قائد شركة وكل مجلس إدارة: لا تثقوا كثيرًا في \"مناعتكم\". لا تتجاهلوا إشارات الخطر. فالمياه التي أغرقت تايتنك، هي نفسها التي قد تُغرق أي شركة تظن أنها \"غير قابلة للفشل\".",
+    "featured": true,
+    "commentsCount": 24,
+    "relatedArticles": [4, 6]
+  },
+  {
+    "id": 2,
+    "image": {
+      "src": "/articles/two.jpg",
+      "alt": "computer"
+    },
+    "label": "Tax Policy",
+    "title": "المرأة والحدّ من التهرب الزَكَويّ والضريبيّ",
+    "link": "/article/ai-healthcare",
+    "date": "2025-4-27",
+    "category": "Public Policy",
+    "author": "د.عبير صقر السلمي",
+    "summary": "تناقش المقالة أهمية الحد من التهرب الزكوي والضريبي في السعودية في ظل رؤية 2030 وسعي المملكة لتنويع مصادر دخلها بعد تذبذب الإيرادات النفطية، مع إبراز خطورة التهرب على الاقتصاد الوطني. وتشير إلى أن من أبرز الحلول المقترحة عالميًا هو وجود رادع داخلي من داخل الشركات، لا سيما من مجالس الإدارات. وتستعرض المقالة دراسات تؤكد أن وجود المرأة في مجالس الإدارة يحدّ من التهرب والتجنّب الضريبي، نظرًا لطبيعتها الحذرة وحرصها على الشفافية. وتُختَتم بتوصية لهيئة السوق المالية بتجربة إلزام تمثيل نسائي في مجالس الشركات المدرجة كإجراء استباقي للحد من التهرب، تماشيًا مع توجهات رؤية 2030 في تمكين المرأة.",
+    "content": "نظراً إلى تذبذب أسعار النفط، فإن رؤية 2030 تعتمد على التحول عن النفط كمصدر رئيسي للإيرادات، ولتوفير إيرادات مستدامة للحفاظ على مستوى المعيشة والتطور المستمرّ فقد قررت المملكة الاعتماد على مصادر إيرادات بديلة لتغطية نفقاتها، من بينها الضرائب. بدأت المملكة العربية السعودية تطبيق الضريبة لأول مرة في مطلع 2018. تُعَدّ أنظمة الضرائب مصدراً من مصادر الدخل القومي لمعظم الدول، ولأن الدول تعتمد جزئياً على الضرائب لتغطية نفقاتها، فإن التهرب الضريبي يُعَدّ جريمة يعاقب عليها القانون في كل النظم العالمية. في السعودية كشف ركود التنمية الاقتصادية العالمية وأزمة كورونا وتوقُّف الحركة الاقتصادية وتناقص الإيرادات النفطية وانعكاساتها على إيرادات الدولة، عن مدى خطورة التهرب الضريبي، إذ ارتفع عدد حالات التهرب الضريبي بنسبة 110%، بمبالغ مالية تُقدَّر بثلاثة مليارات و831 مليون ريال عام 1440ـ1441هـ، ممَّا يهدر حقوق الدولة ويُفقِدها مبالغ طائلة هي بأمسّ الحاجة إلى تحصيلها.\n\nمن أشكال وطرق التهرب الزكوي والضريبي في السعودية: تقديم المكلَّف إقراراً زكويّاً أو ضريبيّاً على أساس المحاسبة التقديرية على الرغم من إمساك دفاتر وسجلات محاسبية منتظمة، أو تقديم إقرار يخالف ما تؤكّده الدفاتر والسجلات المحاسبية، أو تزوير الفواتير والوثائق؛ بهدف زيادة المصاريف وبالتالي تقليل الأرباح، أو إتلاف وإخفاء الدفاتر والسجلات أو المستندات قبل فحص الهيئة الميداني، أو عدم الإفصاح عن نشاط أو أكثر من الأنشطة الخاضعة للزكاة أو الضريبة... الأمر الذي يحمّل الهيئة العامة للزكاة والدخل المسؤولية الكبيرة للتصدّي والحدّ من التهرب الزكوي والضريبي.\n\nالتهرب الضريبي ظاهرة عالمية قديمة منذ بداية فرض الضرائب في العالم، لذلك سعت مئات الدراسات العالمية للحدّ من هذه الجريمة، ولعل أبرز نتائج هذه الدراسات أن يكون منع التهرب الضريبي صادراً من داخل الشركة. وبحكم أن التهرب الضريبي غالباً سلوك صادر من مجلس الإدارة، ركّز عديد من الأبحاث على مجلس الإدارة في هذا المجال، ولعلّ من أشهرها دراسة الفَرْق بين سلوك وتأثير الذكر والأنثى في مجالس الإدارات للشركات. وجد عديد منها اختلافات جوهرية بين سلوكَي الرجل والمرأة، واستناداً إلى بعض الدراسات التي أثبتت التأثير الإيجابي للتمثيل النسائي في مجالس إدارات الشركات، الذي يعود إلى طبيعة المرأة من حيث كونها أكثر حذراً وكرهاً للمخاطر خصوصاً التي قد تمسّ سمعة الشركة (كالتهرُّب الضريبي)، وأكثر من الرجل شفافيةً في الإفصاح عن المعلومات المالية. يؤيد العديد من الباحثين هذه الفكرة، إذ كشفت الدراسات السابقة التي قارنت بين التهرب الضريبي للشركات قبل وبعد انضمام عضو نسائي إلى مجلس إداراتها، فوجدت أن التهرب الضريبي قلّ بعد انضمام العنصر النسائي إلى المجلس. وفي دراسات أخرى في هذا المجال وُجد أن التمثيل النسائي في مجالس الإدارة لا يحدّ من التهرب الضريبي فقط، بل ويمنع أيضاً التجنُّب الضريبي (تَجنُّب سداد الالتزام الضريبي كليّاً أو جزئيّاً بأشكالٍ قانونية)، ولكنْ إن كان التجنب الضريبي قانونيّاً بخلاف التهرب الضريبي، فإن أثرهما في الميزانية العامة للدولة واحد، وهو انخفاض إيرادات الدولة من الضرائب.\n\nوبناءً على ما سبق، ونظراً إلى حداثة النظام الضريبي في المملكة، كخطوة استباقية للحفاظ على موارد الدولة المُهدَرة من هذا التلاعب، ولتخفيف الضغط على الفريق المتخصص لمكافحة التهرب الزكوي والضريبي، وليس تحيزاً للمرأة، ربما من الضرورة بمكان أن تلزم هيئة السوق المالية الشركات السعودية المُدرَجة، تخصيصَ ولو نسبة قليلة من أعضاء مجالس إداراتها للنساء، ثم يتم تقييم التجربة خلال بضع سنوات للنظر في مدى جدوى ذلك من عدمه. وقد كفلت رؤية 2030 الدعم الكامل للمرأة السعودية لتتبوأ المناصب القيادية في مجالات عدة، إذ أكّد وليّ العهد أن المملكة عملت على تمكين المرأة السعودية في عالم العمل وتعزيز التمكين الاقتصادي لها، فهي فعليّاً شريكة الرجل في تنمية الوطن وتطويره.",
+    "tags": [
+      "Tax Evasion",
+      "Zakat Compliance",
+      "Saudi Vision 2030",
+      "Corporate Governance",
+      "Women In Leadership",
+      "Board Diversity",
+      "Tax Transparency",
+      "Saudi Economy"
+    ],
+    "featured": true,
+    "commentsCount": 21
+  },
+  {
+    "id": 3,
+    "image": {
+      "src": "/about1.jpg",
+
+      "alt": "Decentralized finance network with cryptocurrency and smart contracts"
+    },
+    "label": "Blockchain",
+    "title": "DeFi vs Traditional Banking: Disrupting the Financial Ecosystem",
+    "link": "/article/defi-banking",
+    "date": "2022-05-20",
+    "category": "blockchain",
+    "author": "Elena Rodriguez",
+    "tags": ["DeFi", "Blockchain", "Fintech", "Banking"],
+    "summary": "Decentralized Finance (DeFi) is challenging traditional banking systems by offering open, permissionless financial services. This article compares their strengths and limitations.",
+    "content": "<h2>What is DeFi?</h2><p>DeFi refers to blockchain-based financial applications that aim to recreate traditional financial systems—such as lending, borrowing, and trading—without intermediaries.</p><h2>Key Differences</h2><table><thead><tr><th>Aspect</th><th>Traditional Banking</th><th>DeFi</th></tr></thead><tbody><tr><td>Accessibility</td><td>Limited by geography/income</td><td>Open to anyone with internet</td></tr><tr><td>Transparency</td><td>Opaque processes</td><td>Public blockchain records</td></tr><tr><td>Cost</td><td>High fees</td><td>Negotiable gas fees</td></tr></tbody></table><h2>Challenges Ahead</h2><p>Regulatory uncertainty, scalability issues, and security risks remain major barriers to mainstream adoption of DeFi platforms.</p>",
+    "readingTime": "6 min read",
+    "featured": true,
+    "commentsCount": 32,
+    "relatedArticles": [6, 1],
+    "seo": {
+      "metaDescription": "Compare DeFi and traditional banking systems in terms of accessibility, cost, and innovation.",
+      "keywords": "DeFi vs banking, blockchain finance, fintech disruption"
+    },
+    "socialMedia": {
+      "ogTitle": "DeFi vs Traditional Banking: Disrupting the Financial Ecosystem",
+      "ogDescription": "An in-depth comparison of DeFi and traditional banking systems in the age of blockchain.",
+      "ogImage": "/defi-banking.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "image": {
+      "src": "/about1.jpg",
+
+      "alt": "Quantum computing visualization with abstract qubits and waveforms"
+    },
+    "label": "Technology",
+    "title": "Quantum Computing Breakthroughs: A New Era for Data Encryption",
+    "link": "/article/quantum-encryption",
+    "date": "2023-11-01",
+    "category": "technology",
+    "author": "Prof. Raj Patel",
+    "tags": [
+      "Quantum Computing",
+      "Encryption",
+      "Cybersecurity",
+      "Tech Innovation"
+    ],
+    "summary": "Quantum computing is advancing rapidly, posing both threats and opportunities for modern encryption methods. Learn how quantum-resistant algorithms are being developed.",
+    "content": "<h2>The Quantum Threat</h2><p>Traditional encryption methods like RSA and ECC may become obsolete with the advent of quantum computing. Quantum algorithms such as Shor’s algorithm can break current cryptographic systems in seconds.</p><h2>Quantum-Resistant Solutions</h2><p>Researchers are developing post-quantum cryptographic algorithms based on lattice-based math, hash-based signatures, and multivariate equations.</p><h2>Industry Preparedness</h2><p>Governments and tech companies are investing heavily in quantum-safe infrastructure. The transition will take years, but proactive measures are already underway.</p>",
+    "readingTime": "7 min read",
+    "featured": true,
+    "commentsCount": 41,
+    "relatedArticles": [1, 3],
+    "seo": {
+      "metaDescription": "Explore how quantum computing is reshaping the future of data encryption and cybersecurity.",
+      "keywords": "quantum computing, data encryption, cybersecurity, post-quantum crypto"
+    },
+    "socialMedia": {
+      "ogTitle": "Quantum Computing Breakthroughs: A New Era for Data Encryption",
+      "ogDescription": "Understand how quantum computing is transforming data security and what comes next.",
+      "ogImage": "/quantum-computing.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "image": {
+      "src": "/about1.jpg",
+
+      "alt": "Startup growth metrics dashboard with rising trend lines"
+    },
+    "label": "Business",
+    "title": "Scaling Startups: Strategies for Sustainable Growth in 2024",
+    "link": "/article/startup-growth",
+    "date": "2023-08-10",
+    "category": "business",
+    "author": "Nina Williams",
+    "tags": [
+      "Startups",
+      "Growth Strategy",
+      "Business Development",
+      "Entrepreneurship"
+    ],
+    "summary": "From product-market fit to scaling operations, this article outlines actionable strategies for startups aiming for long-term success in competitive markets.",
+    "content": "<h2>Foundational Steps</h2><p>Successful scaling begins with a deep understanding of your target audience and a validated product-market fit. Startups must prioritize customer feedback and iterate quickly.</p><h2>Operational Scalability</h2><p>As growth accelerates, companies must invest in scalable infrastructure, automation tools, and talent acquisition to sustain momentum.</p><h2>Financial Health</h2><p>Monitoring burn rate, securing strategic funding, and optimizing cash flow are essential for weathering economic downturns and sustaining growth.</p>",
+    "readingTime": "5 min read",
+    "featured": false,
+    "commentsCount": 22,
+    "relatedArticles": [2, 6],
+    "seo": {
+      "metaDescription": "Learn actionable strategies for scaling startups sustainably in 2024 and beyond.",
+      "keywords": "startup growth, scaling business, entrepreneurship, business strategy"
+    },
+    "socialMedia": {
+      "ogTitle": "Scaling Startups: Strategies for Sustainable Growth in 2024",
+      "ogDescription": "Discover how startups can scale effectively with proven strategies and insights.",
+      "ogImage": "/startup-growth.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "image": {
+      "src": "/about1.jpg",
+
+      "alt": "NFT marketplace interface with digital art and token symbols"
+    },
+    "label": "Blockchain",
+    "title": "NFTs Beyond Art: Exploring Real-World Applications",
+    "link": "/article/nft-applications",
+    "date": "2022-03-05",
+    "category": "blockchain",
+    "author": "Marcus Lee",
+    "tags": ["NFT", "Blockchain", "Digital Ownership", "Smart Contracts"],
+    "summary": "While NFTs are often associated with digital art, their potential extends to real estate, supply chain management, and identity verification. This article explores emerging use cases.",
+    "content": "<h2>Expanding Horizons</h2><p>NFTs (Non-Fungible Tokens) offer unique digital ownership verification. Beyond art and collectibles, they are being adopted in various industries:</p><ul><li><strong>Real Estate:</strong> Tokenizing property deeds for transparent transfers</li><li><strong>Supply Chain:</strong> Tracking goods authenticity via blockchain</li><li><strong>Identity:</strong> Secure digital IDs resistant to forgery</li></ul><h2>Challenges and Regulation</h2><p>Environmental concerns, regulatory ambiguity, and market volatility remain key challenges. However, with evolving standards, NFTs are poised to become a foundational technology in Web3 ecosystems.</p>",
+    "readingTime": "6 min read",
+    "featured": true,
+    "commentsCount": 37,
+    "relatedArticles": [3, 1],
+    "seo": {
+      "metaDescription": "Explore real-world applications of NFTs beyond digital art, including real estate, supply chain, and identity verification.",
+      "keywords": "NFT use cases, blockchain applications, digital ownership, smart contracts"
+    },
+    "socialMedia": {
+      "ogTitle": "NFTs Beyond Art: Exploring Real-World Applications",
+      "ogDescription": "Discover how NFTs are being used in real estate, supply chain, and identity verification.",
+      "ogImage": "/nft-applications.jpg"
+    }
+  }
+]
